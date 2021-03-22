@@ -258,14 +258,16 @@ We have three classes of ships: Light, Heavy Cargo, Armored Cruiser.
 
 The Base AC for the Ship is AC 9.
 
-Classe 1 - Light
+**Classe 1 - Light**
 - 1~6 slots
 
-Classe 2 - Heavy
+**Classe 2 - Heavy**
 - 2~12 slots
 
-Classe 3 - Armored
+**Classe 3 - Armored**
 - 3~18 slots
+
+## Slot System
 
 One slot must be for a Cabin (one slot, but two passagers), or a Bridge (two slots, crew of five characters).
 The Cabin or Bridge will always occupy the first slot(s).
@@ -286,7 +288,8 @@ A Droid, or a Combat Module, gives a +1 To Hit.
 
 On each hit taken, roll 1d6, 2d6 or 3d6 depending of the ship size, the result will be where the shoot hit on the ship.
 
-Example of Ship and Combat:
+## Example of Ship and Combat
+
 **X-wing**:
 - [1] Cabin
 - [2] Droid Module
