@@ -65,13 +65,14 @@ The base Save is 10+, meaning they need 10 or more on 2d6 to succeed.
 Depending on the save (and the situation) the character can receive +1 or -1 by justification on the use of an attribute in a saving throw, if the related attribute is 13+ the roll will be 2d6+1.
 
 ```
-Optionally, this can be further increased by adding the character HD, so a Level 1 character will mechanically Save 9+ adding related attribute bonus if any, and a Level 2 character will Save 8+, etc.
+Optionally, this can be further increased by adding the character HD.
+A Level 1 character will mechanically Save 10+ in 2d6+1.
 
-This optional rule doesn't translate well for a game lasting long with high level characters, if the game runs for characters up to level 3 or level 5 it will work just nice, but if the campaign lasts for level 8, 10 or more, this HD bonus should stack at HD 5 for balance.
+This optional rule doesn't translate well for a game high level characters.
+This HD bonus should stack at HD 5 for balance.
 
-As a Traveller lover, depending on the situation I might ask for a Save of 8+ instead of 10+ if I think they should have a better chance.
-
-I'm also planning to give the characters a Save of 8+ on Level 5 as I'm not using the HD bonus. But I'm still not sure.
+As a Traveller lover, depending on the situation I might ask for a Save of 8+ 
+instead of 10+ if I think they should have a better chance.
 ```
 
 ## To Hit and Armour
@@ -80,9 +81,13 @@ The hit formula uses Target 20 System but using 2d10, meaning 2d10 + HD + AC + b
 The use of 2d10 is a personal choice that only works well in the said setting. There is not much Plate Mail around, the AC normally ranges from 9 to 5.
 
 ```
-The 2d10 draws a triangular probability distribution, meaning that it increases the chance to hit AC from 9 to 7 comparing with a d20, for AC 6 and 5 it is slightly difficult, and AC 2 is close to impossible. Which doesn't affect the said setting where no one will be using AC 2.
+The 2d10 draws a triangular probability distribution, 
+meaning that it increases the chance to hit AC from 9 to 7 comparing with a d20; 
+for AC 6 and 5 it is slightly difficult, and AC 2 is close to impossible. 
+Which doesn't affect the said setting where no one will be using AC 2.
 
-Even if someone is using Plate+Shield, it would give AC 3, as the Shield purpose is to Save character from death and doesn't mod AC.
+Even if someone is using Plate+Shield, it would give AC 3. 
+The Shield purpose is to Save character from death and doesn't mod AC.
 ```
 
 A Shield would break when a character suffers a fatal blow.
@@ -90,7 +95,10 @@ A Shield would break when a character suffers a fatal blow.
 Slight improving the To Hit chance by using 2d10 and AC 9~5 helps to make combat a little faster.
 
 ```
-Using a d20 is just alright, but 3d6 could be a good choice for a faster combat as well. I'm using 2d10 for testing and I have no complains by my players, but I'm not sure if it's a better idea than using 3d6.
+Using a d20 is just alright. 
+A 3d6 could be a good choice for a faster combat as well. 
+I'm using 2d10 for testing and I have no complains by my players, 
+but I'm not sure if it's a better idea than using 3d6.
 ```
 
 ## Damage
@@ -98,33 +106,56 @@ Using a d20 is just alright, but 3d6 could be a good choice for a faster combat 
 On a Hit, the character roll 1d6 for damage, on 6 it will cause 2 damage (or remove two HD from the creature), else it will cause 1 damage.
 
 ```
-This might sound strange, as the damage being so low the battles would supposedly last long.
+This might sound strange, as the damage being so low the battles would last.
 
-The Creatures HP are equal to their HD, I usually give +1 HP on 1-in-6 to have some variation for each creature, just for fun, but most of the time HD = Hits to Kill.
+The Creatures HP are equal to their HD, I usually give +1 HP on 1-in-6 
+to have some variation for each creature, 
+but most of the time HD = Hits to Kill.
 
 What I'm trying to do is to "average everything".
 
-A creature would roll 1d6 for HP as well as characters would roll 1d6 for damage, instead we consider every d6 roll as a mean value of 3.5, thus, "dividing both sides by 3.5", is the same as having 1 point of HP per 1 point of Damage.
+A creature would roll 1d6 for HP as well as characters would roll 1d6 for damage,
+instead we consider every d6 roll as a mean value of 3.5, 
+thus, "dividing both sides by 3.5", 
+is the same as having 1 point of HP per 1 point of Damage.
 
-I think it's frustrating in a normal game that after the player already struggle a lot to finally hit, it rolls for only 1 point of damage.
+I think it's frustrating in a normal game that after the player already 
+struggle a lot to finally hit, it rolls for only 1 point of damage.
 
-In the first levels in a traditional OD&D game, 1 point of damage can be enough to kill something, but normally it will not, the combat will take long to finish and the player might be frustrated if he is a Fighter rolling 1 or 2 of damage when he finally manage to hit.
+The first levels in a traditional OD&D game, 1 point of damage can be enough 
+to kill something, but normally it will not, 
+the combat will take long to finish and the player might be frustrated if he 
+is a Fighter rolling 1 or 2 of damage when he finally manage to hit.
 
-I had a lot of fun with the traditional combat, years of fun, but also frustration and long combats, I think that we need a faster combat to feel it more like sword and sorcery.
+I had a lot of fun with the traditional combat, years of fun, 
+but also frustration and long combats. 
+I think that we need a faster combat to feel it more like sword and sorcery.
 
-As players still like to roll for damage, I've adopted the Chainmail "damage on a 6" but as an extra damage.
+As players still like to roll for damage, I've adopted the Chainmail 
+"hit on a 6" but as an extra damage instead of a kill.
 
-The result is that mathematically a hit would already inflict half the maximum damage, and a roll of 6 in the "damage dice" would result in maximum damage as if rolling a normal damage.
+The result is that mathematically a hit would already inflict 
+half the maximum damage, and a roll of 6 in the "damage dice" 
+would result in maximum damage as if rolling a normal damage.
 
-We're having a good time with those fast combats, and it generates some cool adaptations for magic and creatures special attacks. A 3rd level Magic-User casting a Lightning Bolt spell would inflict 1 damage + 3d6, each 6 results increasing the damage in +1. The players are always feeling some nice tension about the numbers to be rolled, hunting those "extra 6's" in the results.
+We're having a good time with those fast combats, and it generates some cool 
+adaptations for magic and creatures special attacks. 
+A 3rd level Magic-User casting a Lightning Bolt spell would inflict 3d6 damage, 
+each 6 results increasing the damage in +2, else +1. 
+The players are always feeling some nice tension about the numbers to be rolled, 
+hunting those "extra 6's" in the results.
 
-My players aren't kids, they're Engineers, Chemists and Lawyers, but I would assume that this is a great system to use with kids as well since they don't have to do much Math, they will only count how many dices are facing 6's up.
+My players aren't kids, they're Engineers, Chemists and Lawyers, 
+but I would assume that this is a great system to use with kids as well. 
+They don't have to do much Math, they will only count how many dices are 
+facing 6's up.
 ```
 
 A hit on a natural 20 would already inflict maximum damage, no need to roll for a 6 on the damage dice.
 
 ```
-The players liked this when we were still using d20, but on 2d20 a "natural 20" have only a 1% chance so it's rare.
+The players liked this when we were still using d20, but on 2d20 a 
+"natural 20" have only a 1% chance so it's rare.
 ```
 
 ## Weapons
@@ -148,13 +179,20 @@ If the character is using no shield, or after the shield break, the character ne
 The Save against Death is a 10+ without modifiers.
 
 ```
-I prefer to keep the Save against Death as a 10+ without using the optional rule of adding character HD as modifier.
+I prefer to keep the Save against Death as a 10+ without using the 
+optional rule of adding character HD as modifier.
 
-This Save should not be easy, it's just for the players to have a bit more chance of surviving (for the pulp sake) and for then to have a little more emotion and hope that their character might survive.
+This Save should not be easy, it's just for the players to have a bit 
+more chance of surviving (for the pulp sake) and for then to have a 
+little more emotion and hope that their character might survive.
 
-If the characters are Level 5 with the 8+ Save base, the Save against Death might use the 8+ base instead.
+If the characters are Level 5 with the 8+ Save base, 
+the Save against Death might use the 8+ base instead.
 
-Failing the Save will put the characters with zero HP which probably means death, unless I think about something nice, like making them slaves or something, in our last game they were breaking free from a Kushite Slave Ship (The Pit of Kutallu adventure adapted from 2d20).
+Failing the Save will put the characters with zero HP which probably 
+means death, unless I think about something nice, like making them 
+slaves or something, in our last game they were breaking free from a 
+Kushite Slave Ship (The Pit of Kutallu adventure adapted from 2d20).
 ```
 
 Creatures roll for Moral as normal. Additional info on Section 5.
@@ -166,19 +204,31 @@ Every player character starts the game with 1d6 HP.
 This can be adjusted by +1 Con.
 
 ```
-This may sounds too much considering that creatures have HD = HP, but most of the time, the characters are facing multiple foes and the idea is to emulate the novels and comics where Conan and his friends prevail against weak foes with easy, but struggle against some huge ones.
+This may sounds too much considering that creatures have HD = HP, 
+but most of the time, the characters are facing multiple foes and the 
+idea is to emulate the novels and comics where Conan and his friends 
+prevail against weak foes with easy, but struggle against some huge ones.
 
-The idea is to have fast combats, even the characters having more initial HP than most foes they don't feel like it, specially when they kill foes with one or two blows, they think that they might die in one blow as well.
+The idea is to have fast combats, even the characters having more initial 
+HP than most foes they don't feel like it, specially when they kill foes 
+with one or two blows, they think that they might die in one blow as well.
 
-Although they have a potential higher HP initially, they can only recover 1 HP per rest, there is no healing magic or healing potions, and not every "sleep" is a rest, they have to be in a place where they can indeed have a nice and refreshing rest, at least a campfire and a meal before rest.
+Although they have a potential higher HP initially, they can only recover 
+1 HP per rest, there is no healing magic or healing potions, 
+and not every "sleep" is a rest, they have to be in a place where they can indeed 
+have a nice and refreshing rest, at least a campfire and a meal before rest.
 ```
 
 Every time the characters level up, they can roll their HD+Con, if the new result is greater than their actual HP, it will be their new Max HP.
 
 ```
-Personally I like this because the players have a little more survivability, and I can put some traps around without fearing too much hit-kills. A trap might inflict one damage (or two if the damage roll is a six), so it will hurt but not necessarily kill as easy as in by the book OD&D.
+Personally I like this because the players have a little more survivability, 
+and I can put some traps around without fearing too much hit-kills. 
+A trap might inflict one damage (or two if the damage roll is a six), 
+so it will hurt but not necessarily kill as easy as in by the book OD&D.
 
-I like that they can fall in a trap and survive to tell, and I like that I can put some more traps around without fearing that they will die too fast.
+I like that they can fall in a trap and survive to tell, and I like that 
+I can put some more traps around without fearing that they will die too fast.
 ```
 
 ## Reaction, Surprise and Initiative
@@ -199,7 +249,8 @@ A panther will always be faster than the characters so it will always attack fir
 ```
 We all like the encumbrance system, we were using it until before pandemics.
 
-Now we're testing something easier, since almost everything by using "Chainmail" got simpler, why keep the encumbrance Math?
+Now we're testing something easier, since almost everything by using 
+"Chainmail" got simpler, why keep the encumbrance Math?
 ```
 
 Every character can carry 6 items (1d6), not counting their clothes.
@@ -209,7 +260,8 @@ If the character is carrying a bag or backpack, he can carry 11 items (2d6).
 A horse or mule would carry 16 items (3d6).
 
 ```
-This system serves the purpose of simplifying the Equipment and adding some mechanic tension.
+This system serves the purpose of simplifying the Equipment and adding 
+some mechanic tension.
 
 Lets say the character Equipment is like:
 
@@ -220,9 +272,13 @@ Lets say the character Equipment is like:
 - [5] Rope
 - [6] (empty)
 
-If a trap spring from the ceiling dropping some Acid in a character that failed a Saving Throw, instead of hurting him (or killing), I would roll 1d6, in a result of 1 I would say that his longsword is no more, the character lost it for the trap.
+If a trap spring from the ceiling dropping some Acid in a character that 
+failed a Saving Throw, instead of hurting him (or killing), I would roll 1d6, 
+in a result of 1 I would say that his longsword is no more, 
+the character lost it for the trap.
 
-Or lets say an arrow was shot into a backpack, maybe the arrow hit a flask, empty or not, and the flask is now broken.
+Or lets say an arrow was shot into a backpack, maybe the arrow hit a flask, 
+empty or not, and the flask is now broken.
 
 Sometimes the character might suffer damage AND lose the item.
 
@@ -236,9 +292,11 @@ I let players group small items in the same slot, some players started to write 
 # [4] Character Classes
 
 ```
-We always used OD&D or Basic rules for character classes (normally race-as-class), but this time I've wrote some house rules.
+We always used OD&D or Basic rules for character classes 
+(normally race-as-class), but this time I've wrote some house rules.
 
-As we reboot our campaign recently, I only wrote the Level 1 of each class as they didn't leveled yet.
+As we reboot our campaign recently, I only wrote the Level 1 of each class 
+as they didn't leveled yet.
 ```
 
 ## Fighter
@@ -260,24 +318,35 @@ As we reboot our campaign recently, I only wrote the Level 1 of each class as th
 - Starts the game knowing 2 Spells, +1 if INT 13+.
 
 ```
-The idea is to give a feel of sword and sorcery novels like Conan and Fafhrd and Gray Mouser.
+The idea is to give a feel of sword and sorcery novels like Conan 
+and Fafhrd and Gray Mouser.
 
-Magic is something obscure and dangerous. I remember Gray Mouser almost dying trying to curse a Duke, and almost all Magic-Users on Conan are Dark Sorcerers or Necromancers.
+Magic is something obscure and dangerous. 
+I remember Gray Mouser almost dying trying to curse a Duke, 
+and almost all Magic-Users on Conan are Dark Sorcerers or Necromancers.
 
 My idea is that Magic is using blood, making pacts and giving away the soul. 
 My players like it but I can see why some people might not.
 
-That's why I like the idea of characters using their blood to power spells or sacrificing themselves to go beyond their body limit.
+That's why I like the idea of characters using their blood to power 
+spells or sacrificing themselves to go beyond their body limit.
 
-I've saw multiple times Magic-User (or "Wizards") using their daily spells and then getting bored for a while or complaining about taking rest as soon as possible. 
-Now they can go beyond their limits or even sacrifice their characters in a last resort spell to save the group.
+I've saw multiple times Magic-User (or "Wizards") using their 
+daily spells and then getting bored for a while or complaining about 
+taking rest as soon as possible. 
+Now they can go beyond their limits or even sacrifice their characters 
+in a last resort spell to save the group.
 
-Considering that the character might found a magic of 2nd or 3rd level being a 1st level Magic-User. 
-I like the idea for the character to burn some health to be able to use the spell before he become strong enough to "tame" it.
+Considering that the character might found a magic of 2nd or 3rd level 
+being a 1st level Magic-User. 
+I like the idea for the character to burn some health to be able to use 
+the spell before he become strong enough to "tame" it.
 
 The source of the Magic-User don't need to be a spellbook. 
 The player can choose that it is a wand, a scepter, pacts or something else. 
-When the spells per day run out is because the character is exhaust, he also don't need to "prepare" the spell, the character can cast any spell he knows/have whenever he want/can.
+When the spells per day run out is because the character is exhaust, 
+he also don't need to "prepare" the spell, the character can cast any spell 
+he knows/have whenever he want/can.
 ```
 
 ## Cleric
@@ -303,9 +372,13 @@ As I've said, my Cleric is pretty much Achilles.
 
 Think of it more as a Paladin than a Priest if you like.
 
-I've kept Turn Undead because that's a classic, but Clerics can't insta-destroy Undead more than of HD 1, and they can't turn creatures with HD greater than the Cleric HD.
+I've kept Turn Undead because that's a classic, but Clerics can't 
+insta-destroy Undead more than of HD 1, and they can't turn creatures 
+with HD greater than the Cleric HD.
 
-The Cleric doesn't need to choose the favour in the beginning of a day, he can use it whenever he want, so after failing a Save for Death, he can use *Endure* if he have favours left.
+The Cleric doesn't need to choose the favour in the beginning of a day, 
+he can use it whenever he want, so after failing a Save for Death, 
+he can use *Endure* if he have favours left.
 ```
 
 ## Elves
@@ -328,9 +401,14 @@ It could be used as Hyperboreans instead.
 - Base Save of 8+.
 
 ```
-The same idea of Basic were they was Fighter/Magic-User from beginning but progress slower. I've nerfed them a bit though, they're not as good at magic as a Magic-User. In this moment I think in an Elf like Deedlit, would not use immaculate magic (powered by blood).
+The same idea of Basic were they was Fighter/Magic-User 
+from beginning but progress slower. 
+I've nerfed them a bit though, they're not as good at magic as a Magic-User. 
+In this moment I think in an Elf like Deedlit, 
+would not use immaculate magic (powered by blood).
 
-If used as Hyperboreans though they should be as good or better at magic than Magic-Users.
+If used as Hyperboreans though they should be as good or 
+better at magic than Magic-Users.
 ```
 
 # [5] Tables and Probabilities
