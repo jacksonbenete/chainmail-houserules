@@ -11,6 +11,8 @@ When I say lightsaber, other "light" weapons like lightwhip are included.
 
 The game assumes a character progression from level 1 to 3, as in Holmes' Basic Edition. This will makes sense in the Save and Combat Section. The system can hold to characters of level up to 5, but the Combat and Save will break for any higher levels.
 
+Boxed text are rules included on the Chainmail + OD&D House Rules or design discussions that can be ignored.
+
 # [0] Terminology and Dices
 
 **Creature**: means a non-player character. It can be a soldier, an alien, a monster or a citizen.
@@ -47,7 +49,9 @@ Clerics always was kind of a half-way between Fighters and Magic-Users. Here cou
 
 Being a Sith, Jedi or other Faction is a matter of alignment (Law, Neutral, Chaos) and Character Background.
 
+```
 The player character don't have to be part of any Faction or political view, but he might get caught into factions struggle causing them problems anyways.
+```
 
 ## Attributes
 
@@ -59,6 +63,7 @@ The player character don't have to be part of any Faction or political view, but
 | 9-12	| 0|
 | 13+	| +1|
 
+```
 During character creation:
 - A Intelligence of 13+ gives you an additional language;
 - A Constitution of 13+ gives you +1 HP for HD.
@@ -70,6 +75,7 @@ Apart from character creation bonuses:
 - The attribute bonuses of +1 or -1 apply on Saving Throw (more on this later); 
 - The charisma bonus would apply on Reactions; 
 - The +1 constitution would help on recovery at long rest (more about character HP and recovery later).
+```
 
 ## Languages
 
@@ -79,7 +85,9 @@ Finally, a Intelligence 13+ character will receive another language, he will be 
 
 # [2] Character Classes
 
+```
 Is hard to give titles to character classes since it depends more on the character background an faction instead of class.
+```
 
 ## Fighter
 
@@ -88,7 +96,9 @@ Is hard to give titles to character classes since it depends more on the charact
 - Can attack as many times as their HD in a turn using any weapon.
 - If Force-sensitive, need a Save to use Force Powers.
 
+```
 This guarantee that a character can be a good "Fighter" doesn't matter if it's a mercenary or a jedi. A recurrent problem in Star Wars games is that Jedi's are normally too much strong compared to other classes, but here if you have a scoundrel or a mandalorian as your character, you can do just good against any Jedi, just like in the movies, comics and tv series.
+```
 
 |HD|Fighter|Exp|
 |---|---|---|
@@ -101,9 +111,11 @@ This guarantee that a character can be a good "Fighter" doesn't matter if it's a
 - Subtract their HD in their AC while using Lightsaber.
 - Can cast 2 spells per HD per day.
 
+```
 I don't know if this might be the most controversial adaptation of if it will be the Cleric. If they're still Jedi/Sith, they still know how to use a lightsaber, so they should at least survive a little, but they don't fight back as much. That's why they receive the AC bonus but not the To Hit bonus.
 
 Sorry for the use of "spell" instead of "force power" but I think this helps to make it clear in Chainmail/OD&D terms.
+```
 
 |HD|Magic-User|Exp|
 |---|---|---|
@@ -117,7 +129,9 @@ Sorry for the use of "spell" instead of "force power" but I think this helps to 
 - Subtract their HD in their AC while using Lightsaber.
 - Can cast 1 spell per HD per day.
 
+```
 I think that a "Cleric" is a good example of a normal Jedi. Can fight just good, and can save their own skin (or others) sometimes by using one or two spells.
+```
 
 |HD|Cleric|Exp|
 |---|---|---|
@@ -138,7 +152,9 @@ As in house rules, the Referee might allow, or ask for, a modifier based in one 
 
 Finally, the Referee might allow a +1 modifier depending of the Character Background or Concept.
 
+```
 I use a Save not only for avoiding damage on special situations, but for any "skill" test as well, I thought that adding the abilities modifiers and a background bonus would be enough to simulate a "skill", so we can call for a Save when it's not clear if the character would know or succeed in something.
+```
 
 ## To Hit and Armour
 
@@ -168,13 +184,15 @@ This is the same to say that on a Hit the character causes 1 damage, then roll a
 
 Each damage caused will remove one HD from a creature. Meaning that HD 1 creatures will die in one hit, just like droids and troopers are dying all the time.
 
+```
 Some creatures can have more "HP" (or "HTK", hits to kill if you prefer) than it's HD, for a better challenge.
 
 Player characters on the other hand roll their HP on the Character Creation, and each time they level up they roll 1d6 for each HD, the result will be their new HP if it's greater than their previous HP.
 
 This greater HP is about the force, their luck in surviving more than the average, and to mitigate the high number of troops and droid blasters aiming on them all the time during the game.
+```
 
-When the character's HP drops to zero, it need to Save against Death, or else the character is dead. The Save is again the Force doing it's thing. Even a powerful Jedi Master die sometimes for a blaster shoot, but a Sith Apprentice thought dead can appear again showing that sometimes they succeed their Saves.
+When the character's HP drops to zero, it need to Save against Death, or else the character is dead. The Save is the Force doing it's thing. Even a powerful Jedi Master die sometimes for a blaster shoot, but a Sith Apprentice thought long dead can appear again showing that sometimes they succeed their Saves.
 
 ## Parry and Deflect
 
@@ -194,19 +212,27 @@ Some weapons can be stronger than others.
 
 A 2-handed lightsaber can inflict damage in a 5 or 6 instead of in a 6 on the damage roll.
 
-A heavy gun can inflict damage in a 5 or 6, or even 4-6 instead of in a 6 on the damage roll.
+A heavy gun can inflict damage in a 5 or 6.
 
+Other stronger guns could inflict damage in 4-6 instead, or even 2d6 damage.
+
+```
 In Star Wars, healing is not a problem as it is in The Age of Conan. The characters might have medkits, med bays, med droids or even a Jedi Master with healing powers around.
 
 The Referee must design encounters with creatures using powerful weapons and combat skills to mitigate the higher hp pools of the characters, creating some challenge.
+```
 
 Remember that creatures can also fit into classes. Sometimes a Droid or a mercenary will count as a Fighter 3 attacking 3 times in a round, and a Sith Lord will be of HD 5 having some devastating Lightning Bolts doing as much as their HD of dices in damage.
 
+```
 The creatures doesn't have to be of HD 1~3 like the characters, and they can have special abilities that the characters don't have, like multiple attacks while in water, or to spit venom or acid, and the like.
 
 Sometimes a HD 2 creature will endure three attacks instead of 2. I normally roll 1d6 and give it one more hit (hp) in a 6. Sometimes I just design a HD 2 creature to attack with +2, but with 5 HP as if it was HD 5 instead.
+```
 
 # [4] Force-Sensitive, Force Powers and Spells
+
+*This whole chapter is incomplete*
 
 I think the traditional "spells per day" approach can work just well for a Star Wars game.
 
@@ -251,6 +277,8 @@ Workarounds:
 The Referee could be able to create more "Spells", adapt it from comics/tv or to work with the player into creating new effects or adapting it from other RPG sources.
 
 # [5] Ships and Space Combat
+
+*This chapter needs more thoughts on it*
 
 This set of rules was designed using a slot system like the one used for items on the house rules.
 
