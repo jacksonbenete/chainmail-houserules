@@ -1,9 +1,3 @@
-<style>
-code {
-  white-space : pre-wrap !important;
-}
-</style>
-
 # Star Wars using Chainmail + OD&D House Rules
 
 This game uses my [(Chainmail + OD&D House Rules)](https://github.com/jacksonbenete/chainmail-houserules) as a base for some changes.
