@@ -69,7 +69,8 @@ During character creation:
 - A Constitution of 13+ gives you +1 HP for HD.
 - A Charisma of 13+ gives you a starting retainer.
 
-This starting retainer rule for a high charisma, as explained in house rules, is a way to help my players to get used to controlling and caring for more than one character. This starting retainer could be a padawan/apprentice, or a faithful ally (Chewbacca).
+This starting retainer rule for a high charisma, as explained in house rules, is a way to help my players to get used to controlling and caring for more than one character. 
+This starting retainer could be a padawan/apprentice, or a faithful ally (Chewbacca).
 
 Apart from character creation bonuses:
 - The attribute bonuses of +1 or -1 apply on Saving Throw (more on this later); 
@@ -97,7 +98,8 @@ Is hard to give titles to character classes since it depends more on the charact
 - If Force-sensitive, need a Save to use Force Powers.
 
 ```
-This guarantee that a character can be a good "Fighter" doesn't matter if it's a mercenary or a jedi. A recurrent problem in Star Wars games is that Jedi's are normally too much strong compared to other classes, but here if you have a scoundrel or a mandalorian as your character, you can do just good against any Jedi, just like in the movies, comics and tv series.
+This guarantee that a character can be a good "Fighter" doesn't matter if it's a mercenary or a jedi. 
+A recurrent problem in Star Wars games is that Jedi's are normally too much strong compared to other classes, but here if you have a scoundrel or a mandalorian as your character, you can do just good against any Jedi, just like in the movies, comics and tv series.
 ```
 
 |HD|Fighter|Exp|
@@ -112,7 +114,9 @@ This guarantee that a character can be a good "Fighter" doesn't matter if it's a
 - Can cast 2 spells per HD per day.
 
 ```
-I don't know if this might be the most controversial adaptation of if it will be the Cleric. If they're still Jedi/Sith, they still know how to use a lightsaber, so they should at least survive a little, but they don't fight back as much. That's why they receive the AC bonus but not the To Hit bonus.
+I don't know if this might be the most controversial adaptation of if it will be the Cleric. 
+If they're still Jedi/Sith, they still know how to use a lightsaber, so they should at least survive a little, but they don't fight back as much. 
+That's why they receive the AC bonus but not the To Hit bonus.
 
 Sorry for the use of "spell" instead of "force power" but I think this helps to make it clear in Chainmail/OD&D terms.
 ```
@@ -130,7 +134,8 @@ Sorry for the use of "spell" instead of "force power" but I think this helps to 
 - Can cast 1 spell per HD per day.
 
 ```
-I think that a "Cleric" is a good example of a normal Jedi. Can fight just good, and can save their own skin (or others) sometimes by using one or two spells.
+I think that a "Cleric" is a good example of a normal Jedi. 
+Can fight just good, and can save their own skin (or others) sometimes by using one or two spells.
 ```
 
 |HD|Cleric|Exp|
@@ -153,7 +158,8 @@ As in house rules, the Referee might allow, or ask for, a modifier based in one 
 Finally, the Referee might allow a +1 modifier depending of the Character Background or Concept.
 
 ```
-I use a Save not only for avoiding damage on special situations, but for any "skill" test as well, I thought that adding the abilities modifiers and a background bonus would be enough to simulate a "skill", so we can call for a Save when it's not clear if the character would know or succeed in something.
+I use a Save not only for avoiding damage on special situations, but for any "skill" test as well. 
+I thought that adding the abilities modifiers and a background bonus would be enough to simulate a "skill", so we can call for a Save when it's not clear if the character would know or succeed in something.
 ```
 
 ## To Hit and Armour
@@ -217,7 +223,8 @@ A heavy gun can inflict damage in a 5 or 6.
 Other stronger guns could inflict damage in 4-6 instead, or even 2d6 damage.
 
 ```
-In Star Wars, healing is not a problem as it is in The Age of Conan. The characters might have medkits, med bays, med droids or even a Jedi Master with healing powers around.
+In Star Wars, healing is not a problem as it is in The Age of Conan. 
+The characters might have medkits, med bays, med droids or even a Jedi Master with healing powers around.
 
 The Referee must design encounters with creatures using powerful weapons and combat skills to mitigate the higher hp pools of the characters, creating some challenge.
 ```
@@ -227,7 +234,9 @@ Remember that creatures can also fit into classes. Sometimes a Droid or a mercen
 ```
 The creatures doesn't have to be of HD 1~3 like the characters, and they can have special abilities that the characters don't have, like multiple attacks while in water, or to spit venom or acid, and the like.
 
-Sometimes a HD 2 creature will endure three attacks instead of 2. I normally roll 1d6 and give it one more hit (hp) in a 6. Sometimes I just design a HD 2 creature to attack with +2, but with 5 HP as if it was HD 5 instead.
+Sometimes a HD 2 creature will endure three attacks instead of 2. 
+I normally roll 1d6 and give it one more hit (hp) in a 6. 
+Sometimes I just design a HD 2 creature to attack with +2, but with 5 HP as if it was HD 5 instead.
 ```
 
 # [4] Force-Sensitive, Force Powers and Spells
