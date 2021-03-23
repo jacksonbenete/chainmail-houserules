@@ -31,7 +31,7 @@ We don't have a list for this. Because we don't need one.
 
 For Background we're talking about Race, the character past life, and the character concept.
 
-A "Coruscan Noble", a "Smuggler Droid" or a "Mon Calamari Scout" are good Backgrounds, we don't need more than a few words for it.
+A "Coruscant Noble", a "Smuggler Droid" or a "Mon Calamari Scout" are good Backgrounds, we don't need more than a few words for it.
 
 ## Character Classes
 
@@ -45,7 +45,7 @@ Clerics always was kind of a half-way between Fighters and Magic-Users. Here cou
 
 ## Alignment
 
-Being a Sith, Jedi or other Faction is a matter of alignment (Law, Neutral, Chaos) and Charater Background.
+Being a Sith, Jedi or other Faction is a matter of alignment (Law, Neutral, Chaos) and Character Background.
 
 The player character don't have to be part of any Faction or political view, but he might get caught into factions struggle causing them problems anyways.
 
@@ -138,7 +138,7 @@ As in house rules, the Referee might allow, or ask for, a modifier based in one 
 
 Finally, the Referee might allow a +1 modifier depending of the Character Background or Concept.
 
-I use a Save not only for avoiding damage on special situations, but for any "skill" teste as well, I thought that adding the abilities modifiers and a background bonus would be enough to simulate a "skill", so we can call for a Save when it's not clear if the character would know or succeed in something.
+I use a Save not only for avoiding damage on special situations, but for any "skill" test as well, I thought that adding the abilities modifiers and a background bonus would be enough to simulate a "skill", so we can call for a Save when it's not clear if the character would know or succeed in something.
 
 ## To Hit and Armour
 
@@ -158,7 +158,7 @@ As anyone using a Lightsaber, or a Fighter using Beskar weapons, can also use it
 
 **Example**: 
 - A HD 2 Mandalorian Fighter would have a (9-2) AC 7 using no armor, AC 7 using a Trooper Armor or equivalent, and AC 5 using his Mandalorian Armor.
-- A HD 3 Mandalorian Fighter would have a (9-3) AC 6 using no armor, AC 6 using a Trooper Armor or equivalent since the character defensive skills are better than the Trooper Armor protection, and AC 5 using his Mandalorian Armor, since the Mandaloriam Armor still better than the character defensive skills.
+- A HD 3 Mandalorian Fighter would have a (9-3) AC 6 using no armor, AC 6 using a Trooper Armor or equivalent since the character defensive skills are better than the Trooper Armor protection, and AC 5 using his Mandalorian Armor, since the Mandalorian Armor still better than the character defensive skills.
 
 ## Damage, HD and HP
 
@@ -168,13 +168,13 @@ This is the same to say that on a Hit the character causes 1 damage, then roll a
 
 Each damage caused will remove one HD from a creature. Meaning that HD 1 creatures will die in one hit, just like droids and troopers are dying all the time.
 
-Some creatures can have more "HP" (or "HTK", hits to kill if you prefeer) than it's HD, for a better challenge.
+Some creatures can have more "HP" (or "HTK", hits to kill if you prefer) than it's HD, for a better challenge.
 
 Player characters on the other hand roll their HP on the Character Creation, and each time they level up they roll 1d6 for each HD, the result will be their new HP if it's greater than their previous HP.
 
 This greater HP is about the force, their luck in surviving more than the average, and to mitigate the high number of troops and droid blasters aiming on them all the time during the game.
 
-When the character's HP drops to zero, it need to Save against Death, or else the character is dead. The Save is again the Force doing it's thing. Even a powerful Jedi Master die sometimes for a blaster shoot, but a Sith Apprendice thought dead can appear again showing that sometimes they succeeed their Saves.
+When the character's HP drops to zero, it need to Save against Death, or else the character is dead. The Save is again the Force doing it's thing. Even a powerful Jedi Master die sometimes for a blaster shoot, but a Sith Apprentice thought dead can appear again showing that sometimes they succeed their Saves.
 
 ## Parry and Deflect
 
@@ -202,7 +202,7 @@ The Referee must design encounters with creatures using powerful weapons and com
 
 Remember that creatures can also fit into classes. Sometimes a Droid or a mercenary will count as a Fighter 3 attacking 3 times in a round, and a Sith Lord will be of HD 5 having some devastating Lightning Bolts doing as much as their HD of dices in damage.
 
-The creatures doens't have to be of HD 1~3 like the characters, and they can have special abilities that the characters don't have, like multiple attacks while in water, or to spit venom or acid, and the like.
+The creatures doesn't have to be of HD 1~3 like the characters, and they can have special abilities that the characters don't have, like multiple attacks while in water, or to spit venom or acid, and the like.
 
 Sometimes a HD 2 creature will endure three attacks instead of 2. I normally roll 1d6 and give it one more hit (hp) in a 6. Sometimes I just design a HD 2 creature to attack with +2, but with 5 HP as if it was HD 5 instead.
 
@@ -223,7 +223,7 @@ In later Star Wars we have Witches or Sorcerers as well, that use "Force Powers"
 We can fit some Classic Spells that appeared in tv and comics... 
 - The "hand wave" movement is pretty much a Charm Person. 
 - Speak with Animals would work as well.
-- We can think of Siths using "Lightining Bolts" or "Ray of Enfeeblement". 
+- We can think of Siths using "Lightning Bolts" or "Ray of Enfeeblement". 
 - I can think of some "Detect", "Locate", "Divination" and "ESP" like spells that was used in some moments. 
 - "Commune" when they're on meditation.
 - Defensive use of force can be as Shield, Hold Portal, "Wall of"...
@@ -245,7 +245,7 @@ Some spells are of too high level comparing with others that could do something 
 - Droids or gadgets can "read languages" (or translate your voice).
 
 Workarounds:
-- Realocate Spells into new lists redesigning their "levels".
+- Reallocate Spells into new lists redesigning their "levels".
 - Instead of limiting spells by character level, we could use a Complexity Save just like in Chainmail for the character to try a higher level Spell.
 
 The Referee could be able to create more "Spells", adapt it from comics/tv or to work with the player into creating new effects or adapting it from other RPG sources.
@@ -258,18 +258,18 @@ We have three classes of ships: Light, Heavy Cargo, Armored Cruiser.
 
 The Base AC for the Ship is AC 9.
 
-**Classe 1 - Light**
+**Class 1 - Light**
 - 1~6 slots
 
-**Classe 2 - Heavy**
+**Class 2 - Heavy**
 - 2~12 slots
 
-**Classe 3 - Armored**
+**Class 3 - Armored**
 - 3~18 slots
 
 ## Slot System
 
-One slot must be for a Cabin (one slot, but two passagers), or a Bridge (two slots, crew of five characters).
+One slot must be for a Cabin (one slot, but two passengers), or a Bridge (two slots, crew of five characters).
 The Cabin or Bridge will always occupy the first slot(s).
 
 One slot must be for the engine. It will always occupy the last slot.
@@ -293,18 +293,18 @@ On each hit taken, roll 1d6, 2d6 or 3d6 depending of the ship size, the result w
 **X-wing**:
 - [1] Cabin
 - [2] Droid Module
-- [3] Turrent (Gun)
-- [4] Turrent (Gun)
+- [3] Turret (Gun)
+- [4] Turret (Gun)
 - [5] Shield Module
 - [6] Engine
 
 The X-Wing AC is 7 (Base 9, -2 from the Shield Module).
 
-It can shoot twice per turn (two Turrent guns installed) with +1 to hit (droid aid).
+It can shoot twice per turn (two Turret guns installed) with +1 to hit (droid aid).
 
-On a combat, the X-wing got hit once, the damage dice roll for a 4 result, so one of the Turrents got destroyed and the X-wing will attack only once per turn.
+On a combat, the X-wing got hit once, the damage dice roll for a 4 result, so one of the Turrets got destroyed and the X-wing will attack only once per turn.
 
-In the next round the X-wing got hit, the damage dice roll for a 4 result again, the Turrent is already destroyed so the damage move to the next slot, which is slot 5: Shield Module. The Shield Module is gone.
+In the next round the X-wing got hit, the damage dice roll for a 4 result again, the Turret is already destroyed so the damage move to the next slot, which is slot 5: Shield Module. The Shield Module is gone.
 
 After some rounds the X-wing got hit again, the damage dice roll for a 1 result, the cabin exploded and the Ship is gone, the pilot dead.
 
