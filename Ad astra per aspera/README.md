@@ -17,11 +17,13 @@ Boxed text are rules included on the Chainmail + OD&D House Rules or design disc
 
 ## Character Creation
 
-- Choose a background: a concise description of the character [1.1]
-- Character Classes: Fighter, Magic-User, Cleric [1.2]
-- Alignment: Law, Neutral, Chaos [1.3]
-- 3d6 in order for Str, Int, Wis, Dex, Con, Cha [1.4]
-- A single swap between two generated abilities
+- Choose a background: a concise description of the character. [1.1]
+- Character Classes: Fighter, Magic-User, Cleric. [1.2]
+- Alignment: Law, Neutral, Chaos. [1.3]
+- 3d6 in order for Str, Int, Wis, Dex, Con, Cha. [1.4]
+- A single swap between two generated abilities.
+- Starting Hit Points is 1d6+HD.
+- If Con 13+ receives +1 HP, if Cha 13+ receive a starting retainer.
 - The character have a "Common" language and understand one additional language. If Int 13+ understand a second additional language. [1.5]
 
 ## Character Classes
@@ -89,7 +91,7 @@ Being a Sith, Jedi or other Faction is a matter of alignment (Law, Neutral, Chao
 The player character don't have to be part of any Faction or political view, but he might get caught into factions struggle causing them problems anyways.
 ```
 
-## [1.4] Attributes
+## [1.4] Abilities
 
 3d6 in order, receiving a single "swap" in the end.
 
@@ -113,6 +115,12 @@ Apart from character creation bonuses:
 - The charisma bonus would apply on Reactions; 
 - The +1 constitution would help on recovery at long rest (more about character HP and recovery later).
 ```
+
+### Hit Points
+
+The character starting Hit Points are equal 1d6+HD, which will be 1d6+1 for a starting level 1 character.
+
+If the character's Constitution is 13+, the character also receives +1 Hit Point every time rolling Hit Points is needed, like when leveling up.
 
 ## [1.5] Languages
 
@@ -227,7 +235,7 @@ Each damage caused will remove one HD from a creature. Meaning that HD 1 creatur
 ```
 Some creatures can have more "HP" (or "HTK", hits to kill if you prefer) than it's HD, for a better challenge.
 
-Player characters on the other hand roll their HP on the Character Creation, and each time they level up they roll 1d6 for each HD, the result will be their new HP if it's greater than their previous HP.
+Player characters on the other hand roll their HP on the Character Creation, and each time they level up they roll 1d6+HD, the result will be their new HP if it's greater than their previous HP.
 
 This greater HP is about the force, their luck in surviving more than the average, and to mitigate the high number of troops and droid blasters aiming on them all the time during the game.
 ```
