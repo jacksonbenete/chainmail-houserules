@@ -13,6 +13,42 @@ The game assumes a character progression from level 1 to 3, as in Holmes' Basic 
 
 Boxed text are rules included on the Chainmail + OD&D House Rules or design discussions that can be ignored.
 
+# Summing Up
+
+## Character Creation
+
+- Choose a background: a concise description of the character [1.1]
+- Character Classes: Fighter, Magic-User, Cleric [1.2]
+- Alignment: Law, Neutral, Chaos [1.3]
+- 3d6 in order for Str, Int, Wis, Dex, Con, Cha [1.4]
+- A single swap between two generated abilities
+- The character have a "Common" language and understand one additional language. If Int 13+ understand a second additional language. [1.5]
+
+## Character Classes
+
+- Fighter sum their HD to Hit, and if using Lightsaber or Beskar weapons can subtract their HD in their AC. [2.1]
+- Magic-User still subtract their HD in their AC while using Lightsaber, and can use Force Powers twice a day (per HD). [2.2]
+- Cleric receive some of the Fighter abilities and can use Force Powers once per HD per day. [2.3]
+
+## Combat, Damage and Save
+
+- A Save succeed in a 8+ on 2d6. [3.1]
+- Saves can receive an ability and or background modifier.
+- Roll Combat Dice + HD + AC, if result is 20+ it's a hit. [3.2]
+- There is only three armor categories, Light (AC 9), Heavy (AC 7) and Armored (AC 5).
+- On a Hit, the character roll 1d6 for damage, on a 6 it removes 2 HD from the creature, else it remove 1 HD. [3.3]
+- The character can try to Parry or to Deflect Blaster Shoots. (Details on 3.4)
+- Creature's "Hit Points" is equal their HD, receiving damage then removes Hit Dices. [3.5]
+
+## The Force
+
+- Characters can try a 10+ Save (no modifiers) for additional Force Power uses. [4]
+- Musings about adapting Fantasy Spells as Force Powers.
+
+## Ships and Space Combat
+
+- Rules for creating Ships and Space Combat. (Details on 5)
+
 # [0] Terminology and Dices
 
 **Creature**: means a non-player character. It can be a soldier, an alien, a monster or a citizen.
@@ -27,7 +63,7 @@ Boxed text are rules included on the Chainmail + OD&D House Rules or design disc
 
 # [1] Character Creation
 
-## Background
+## [1.1] Background
 
 We don't have a list for this. Because we don't need one.
 
@@ -35,7 +71,7 @@ For Background we're talking about Race, the character past life, and the charac
 
 A "Coruscant Noble", a "Smuggler Droid" or a "Mon Calamari Scout" are good Backgrounds, we don't need more than a few words for it.
 
-## Character Classes
+## [1.2] Character Classes
 
 As in the old game we have three character classes: Fighter, Magic-User and Cleric.
 
@@ -45,7 +81,7 @@ Some Sith as Palpatine are not as good on lightsaber duel as other Force Users, 
 
 Clerics always was kind of a half-way between Fighters and Magic-Users. Here could fit the majority of the Force Users.
 
-## Alignment
+## [1.3] Alignment
 
 Being a Sith, Jedi or other Faction is a matter of alignment (Law, Neutral, Chaos) and Character Background.
 
@@ -53,7 +89,7 @@ Being a Sith, Jedi or other Faction is a matter of alignment (Law, Neutral, Chao
 The player character don't have to be part of any Faction or political view, but he might get caught into factions struggle causing them problems anyways.
 ```
 
-## Attributes
+## [1.4] Attributes
 
 3d6 in order, receiving a single "swap" in the end.
 
@@ -78,7 +114,7 @@ Apart from character creation bonuses:
 - The +1 constitution would help on recovery at long rest (more about character HP and recovery later).
 ```
 
-## Languages
+## [1.5] Languages
 
 Every character start being able to talk a "common" language, or have a device to help into it, and can **understand** one additional language. This can be the "droid language" like how some characters can understand R2D2, or can be an Alien Language as the relationship of Han Solo and Chewbacca.
 
@@ -90,7 +126,7 @@ Finally, a Intelligence 13+ character will receive another language, he will be 
 Is hard to give titles to character classes since it depends more on the character background an faction instead of class.
 ```
 
-## Fighter
+## [2.1] Fighter
 
 - Sum their HD to Hit.
 - Subtract their HD in their AC while using Lightsaber or Beskar weapons.
@@ -108,7 +144,7 @@ A recurrent problem in Star Wars games is that Jedi's are normally too much stro
 |2|---|2000|
 |3|---|4000|
 
-## Magic-User
+## [2.2] Magic-User
 
 - Subtract their HD in their AC while using Lightsaber.
 - Can cast 2 spells per HD per day.
@@ -127,7 +163,7 @@ Sorry for the use of "spell" instead of "force power" but I think this helps to 
 |2|---|2500|
 |3|---|5000|
 
-## Cleric
+## [2.3] Cleric
 
 - Sum their HD to hit.
 - Subtract their HD in their AC while using Lightsaber.
@@ -146,12 +182,10 @@ Can fight just good, and can save their own skin (or others) sometimes by using 
 
 # [3] Combat, Damage and Save
 
-## Save
+## [3.1] Save
 The Saving Throw uses 2d6 as in Chainmail.
 
-The base Save is 10+, meaning they need 10 or more on 2d6 to succeed.
-
-The Save will also benefit from the Character HD, using it as a +HD modifier.
+The base Save is 8+, meaning they need 8 or more on 2d6 to succeed.
 
 As in house rules, the Referee might allow, or ask for, a modifier based in one of the character attributes.
 
@@ -162,7 +196,7 @@ I use a Save not only for avoiding damage on special situations, but for any "sk
 I thought that adding the abilities modifiers and a background bonus would be enough to simulate a "skill", so we can call for a Save when it's not clear if the character would know or succeed in something.
 ```
 
-## To Hit and Armour
+## [3.2] To Hit and Armour
 
 To hit a target, roll Combat Dice + HD + AC and if the result is equal 20 or better, it is a hit.
 
@@ -182,7 +216,7 @@ As anyone using a Lightsaber, or a Fighter using Beskar weapons, can also use it
 - A HD 2 Mandalorian Fighter would have a (9-2) AC 7 using no armor, AC 7 using a Trooper Armor or equivalent, and AC 5 using his Mandalorian Armor.
 - A HD 3 Mandalorian Fighter would have a (9-3) AC 6 using no armor, AC 6 using a Trooper Armor or equivalent since the character defensive skills are better than the Trooper Armor protection, and AC 5 using his Mandalorian Armor, since the Mandalorian Armor still better than the character defensive skills.
 
-## Damage, HD and HP
+## [3.3] Damage, HD and HP
 
 On a Hit, the character roll 1d6 for damage, on 6 it will cause 2 damage (or remove two HD from the creature), else it will cause 1 damage.
 
@@ -200,7 +234,7 @@ This greater HP is about the force, their luck in surviving more than the averag
 
 When the character's HP drops to zero, it need to Save against Death, or else the character is dead. The Save is the Force doing it's thing. Even a powerful Jedi Master die sometimes for a blaster shoot, but a Sith Apprentice thought long dead can appear again showing that sometimes they succeed their Saves.
 
-## Parry and Deflect
+## [3.4] Parry and Deflect
 
 The character already parry attacks as part of it's defense. That's why the character HD is used to correct it's AC.
 
@@ -212,7 +246,7 @@ If the character wants to parry an attack in order to disarm the attacker, the c
 
 To deflect blaster the character roll To Hit. If the roll total is greater than the shooter total, the character succeed in deflect the blaster shoot back (or to redirect it), but in a fail the character will suffer damage even if the blaster shoot would not hit it's AC in the beginning.
 
-## Creatures, Weapons and Special Abilities
+## [3.5] Creatures, Weapons and Special Abilities
 
 Some weapons can be stronger than others.
 
@@ -248,6 +282,8 @@ I think the traditional "spells per day" approach can work just well for a Star 
 If we think about it, the characters aren't using Force all the time, and in situations where they could easily address a problem by using Force Powers they don't. It could be just like as their "uses per day" was used.
 
 In a situation where the Referee think the player character could still use their Force Power or a Spell, like if the character is Force-sensitive like a Padawan/Jedi but a Fighter, or if the Spells per day already exhausted, the character might roll a Save.
+
+The Force Power Save for additional uses is a 10+ Save without modifiers.
 
 This makes sense because there were moments when the characters on tv/comics tried to use their Force Powers but failed, so a Save for "additional" uses can work just well. 
 
